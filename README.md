@@ -1,5 +1,6 @@
-
+<img width="1584" height="400" alt="Emmanuel Chiedozie" src="https://github.com/user-attachments/assets/415d6c30-598a-4026-84f0-0fa557cada32" />
 <hr />
+
 
 ## emmanuelchiedozie | Data Analysis Trainee | Facbook ads specialist
 My name is Emmanuel Chiedozie - a data analytics trainee and a facebook and instagram ads specialist,web designer and business growth sttrategist. I help business owners generate more revenue using targeted facebook and instagram ads and help them get more insights to grow their business
